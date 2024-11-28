@@ -1,0 +1,7 @@
+int64 id
+int64 angle1
+int64 angle2
+int64 angle3
+int64 angle4
+int64 angle5
+int64 angle6

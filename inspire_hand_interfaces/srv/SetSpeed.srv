@@ -1,0 +1,9 @@
+int64 id
+int64 speed1
+int64 speed2
+int64 speed3
+int64 speed4
+int64 speed5
+int64 speed6
+---
+int64 sum
